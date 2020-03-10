@@ -8,6 +8,9 @@ The idea for this one is to try some SIR models in Matlab with and without vario
 ## Assignment 2: Draw a tree
 Idea for this assignment is to draw a tree (phylogeny) and use it to understand the history of an outbreak, and to quantify important parameters. ? Maybe?
 
+## Asssignment 3: ???
+Hopefully we're not shut down that long. 
+
 ### Contributors
 D Evangelista, others
 
